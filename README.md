@@ -19,7 +19,7 @@ It supports measuring the following parameters:
  - Inferencing time
  - Top-1 and Top-5 accuracy
  - mAP and Recall (evaluation via the COCO dataset)
- - Power consumption (optional, with the HM320P laboratory power supply)
+ - Power consumption (optional, with the HM310P laboratory power supply)
 
 
 ## Dependencies
