@@ -1,6 +1,6 @@
 # [DeepEdgeBench](https://arxiv.org/abs/2108.09457) Testing Framework
 
-Python framework for testing Tensorflow imagenet image classification models trained on the [ImageNet dataset](http://image-net.org/) and object detection models trained on the [COCO dataset](https://cocodataset.org/#home) on various platforms including:
+Python framework for testing Tensorflow image classification models trained on the [ImageNet dataset](http://image-net.org/) and object detection models trained on the [COCO dataset](https://cocodataset.org/#home) on various platforms including:
  - RKNN-Toolkit
  - Tensorflow
  - Tensorflow Lite (with TPU support)
